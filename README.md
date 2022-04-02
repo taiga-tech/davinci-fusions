@@ -1,2 +1,1 @@
 # DaVinci Resolve fusion utils
-
